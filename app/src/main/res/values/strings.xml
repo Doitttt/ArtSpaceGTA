@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    // Image Descriptions (contentDescription)
+    <string name="gta_3_desc">GTA III</string>
+    <string name="gta_sa_desc">GTA San Andreas</string>
+    <string name="gta_4_desc">GTA IV</string>
+    <string name="gta_5_desc">GTA V</string>
+
+    // Image Titles
+    <string name="gta_3_title">Grand Theft Auto III\n</string>
+    <string name="gta_sa_title">Grand Theft Auto San Andreas\n</string>
+    <string name="gta_4_title">Grand Theft Auto IV\n</string>
+    <string name="gta_5_title">Grand Theft Auto V\n</string>
+
+    // Image Genre
+    <string name="author_gta">"Rockstar Games "</string>
+
+    // Image Release Years
+    <string name="twentyone">(2001)</string>
+    <string name="twentyfour">(2004)</string>
+    <string name="twentyeight">(2008)</string>
+    <string name="twentythirdteen">(2013)</string>
+
+    // Buttons
+    <string name="next_button">Next</string>
+    <string name='previous_button'>Previous</string>
+</resources>
